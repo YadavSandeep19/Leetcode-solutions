@@ -1,4 +1,47 @@
+# LeetCode Solutions
 
+This repository contains my solutions to LeetCode problems implemented in **Java**.
+
+I am currently practicing Data Structures and Algorithms to strengthen problem-solving skills and prepare for technical interviews.
+
+## Language
+- Java
+
+## Topics Covered
+- Arrays
+- Strings
+- HashMap
+- Sliding Window
+- Two Pointers
+- Stack
+- Queue
+- Binary Search
+- Recursion
+- Dynamic Programming
+
+## Repository Structure
+
+Each problem has its own folder containing:
+
+- Java solution
+- Problem description
+- Examples
+- Time and space complexity
+
+Example:
+
+0001-two-sum  
+0167-two-sum-ii-input-array-is-sorted  
+
+## Goal
+
+- Solve problems consistently
+- Improve algorithmic thinking
+- Prepare for software engineering interviews
+
+---
+
+This repository is automatically updated using LeetHub after each accepted submission.
 
 
 <!---LeetCode Topics Start-->
