@@ -68,6 +68,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0796-rotate-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
