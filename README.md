@@ -50,6 +50,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -91,4 +93,8 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
