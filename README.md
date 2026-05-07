@@ -54,6 +54,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
