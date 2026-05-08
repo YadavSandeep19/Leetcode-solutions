@@ -50,6 +50,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -63,6 +64,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
