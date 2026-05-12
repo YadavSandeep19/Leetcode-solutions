@@ -54,6 +54,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0039-combination-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -135,4 +136,12 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 <!---LeetCode Topics End-->
