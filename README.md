@@ -72,6 +72,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
@@ -130,6 +131,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0009-palindrome-number](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
