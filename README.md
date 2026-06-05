@@ -135,6 +135,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
