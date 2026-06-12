@@ -59,6 +59,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -125,6 +126,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [2540-minimum-common-value](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -151,6 +153,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
