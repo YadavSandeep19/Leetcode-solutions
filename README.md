@@ -140,6 +140,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -191,6 +192,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -235,6 +237,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Trie
@@ -273,5 +276,14 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
