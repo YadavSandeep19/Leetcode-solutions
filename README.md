@@ -187,6 +187,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -257,11 +258,13 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
