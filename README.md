@@ -53,6 +53,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -145,6 +146,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0045-jump-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -224,6 +226,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
