@@ -130,6 +130,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0796-rotate-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -140,6 +141,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
