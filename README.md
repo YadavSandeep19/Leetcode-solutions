@@ -185,6 +185,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0062-unique-paths](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
