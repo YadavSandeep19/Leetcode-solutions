@@ -73,6 +73,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -187,6 +188,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -267,6 +269,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
