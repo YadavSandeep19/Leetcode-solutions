@@ -87,6 +87,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
@@ -112,6 +113,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2540-minimum-common-value](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -327,6 +329,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
