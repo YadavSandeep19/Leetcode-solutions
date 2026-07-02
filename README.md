@@ -94,6 +94,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -233,6 +234,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -357,15 +360,18 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
