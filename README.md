@@ -66,6 +66,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0455-assign-cookies](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -187,6 +188,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -235,6 +237,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
