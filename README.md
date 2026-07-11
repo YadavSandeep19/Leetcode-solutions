@@ -273,6 +273,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Number Theory
@@ -340,6 +341,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
@@ -392,6 +394,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -437,5 +440,6 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
