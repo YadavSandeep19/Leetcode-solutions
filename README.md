@@ -83,6 +83,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -229,6 +230,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -292,6 +294,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
