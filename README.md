@@ -105,6 +105,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -242,6 +243,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3312-sorted-gcd-pair-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -258,6 +260,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Recursion
@@ -408,6 +411,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1291-sequential-digits](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
