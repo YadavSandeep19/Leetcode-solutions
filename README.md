@@ -64,6 +64,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0300-longest-increasing-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -219,6 +220,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0198-house-robber](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -244,6 +246,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0062-unique-paths](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
@@ -279,6 +282,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,4 +520,8 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
