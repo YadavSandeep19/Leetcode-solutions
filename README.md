@@ -76,6 +76,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1331-rank-transform-of-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -227,6 +228,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0877-stone-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -252,6 +254,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0628-maximum-product-of-three-numbers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -528,4 +531,13 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
