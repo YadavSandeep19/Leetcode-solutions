@@ -77,6 +77,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1331-rank-transform-of-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -142,6 +143,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1331-rank-transform-of-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -306,6 +308,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -384,6 +387,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0055-jump-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
