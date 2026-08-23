@@ -215,6 +215,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1927-sum-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -285,6 +286,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1927-sum-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -399,6 +401,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -591,6 +594,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1140-stone-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
