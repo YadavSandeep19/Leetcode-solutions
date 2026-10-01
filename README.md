@@ -229,6 +229,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -600,6 +601,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -673,6 +675,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
