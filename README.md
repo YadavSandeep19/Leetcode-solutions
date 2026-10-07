@@ -234,6 +234,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0032-longest-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0796-rotate-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -401,11 +402,13 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
