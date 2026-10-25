@@ -72,6 +72,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0835-image-overlap](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -399,6 +400,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1861-rotating-the-box/) | Medium |
@@ -427,6 +429,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0322-coin-change](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -540,6 +543,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -676,6 +680,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
