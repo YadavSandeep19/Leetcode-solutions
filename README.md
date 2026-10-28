@@ -156,6 +156,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -321,6 +322,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +386,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +410,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
