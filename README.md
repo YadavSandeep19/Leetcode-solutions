@@ -145,6 +145,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -320,6 +321,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3660-jump-game-ix/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -413,6 +415,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1914-cyclically-rotating-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
