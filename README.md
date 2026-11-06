@@ -112,6 +112,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2553-separate-the-digits-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -177,6 +178,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2196-create-binary-tree-from-descriptions](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -523,6 +525,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2126-destroying-asteroids](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -576,6 +579,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Indexed Tree
