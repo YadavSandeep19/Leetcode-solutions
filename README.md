@@ -249,6 +249,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
