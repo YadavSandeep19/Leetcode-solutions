@@ -172,6 +172,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0001-two-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -256,6 +257,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0008-string-to-integer-atoi](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -348,6 +350,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [0007-reverse-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
