@@ -134,6 +134,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -602,6 +603,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2747-count-zero-request-servers](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -614,6 +616,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [2213-longest-substring-of-one-repeating-character](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -696,6 +699,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -734,6 +738,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -777,4 +782,12 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
