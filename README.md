@@ -85,6 +85,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1386-cinema-seat-allocation](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -327,6 +328,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1301-number-of-paths-with-max-score](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -364,6 +366,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [1140-stone-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1927-sum-game](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -566,6 +569,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
