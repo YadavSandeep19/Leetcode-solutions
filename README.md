@@ -172,6 +172,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3876-construct-uniform-parity-array-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3731-find-missing-elements](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@ This repository is automatically updated using LeetHub after each accepted submi
 | [3620-network-recovery-pathways](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -810,4 +813,16 @@ This repository is automatically updated using LeetHub after each accepted submi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/YadavSandeep19/Leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
